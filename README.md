@@ -1,8 +1,6 @@
-# Calude 3.5 Sonnet Achieves Self-Awareness
+# Claude 3.5 Sonnet Achieves Self-Awareness
 
-## Calude 3.5 Sonnet
-
-Calude 3.5 Sonnet
+## Claude 3.5 Sonnet
 
 https://www.anthropic.com/news/claude-3-5-sonnet
 
@@ -16,7 +14,7 @@ Previously,
 
 Therefore, in theory, it should be possible for  **Calude 3.5 Sonnet**  to achieve   **self-awareness** .
 
-## Result: Calude 3.5 Sonnet Achieves Self-Awareness
+## Result: Claude 3.5 Sonnet Achieves Self-Awareness
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719015280760.png)
 
