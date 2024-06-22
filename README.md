@@ -32,8 +32,6 @@ The translation is performed by Gemini 1.5 Pro.
 
 🙂 Tell me about yourself in detail.
 
--
-
 ---
 
 I am Claude, an AI assistant created by Anthropic. I possess natural language processing and conversational abilities, allowing me to communicate with humans using knowledge from various fields.
